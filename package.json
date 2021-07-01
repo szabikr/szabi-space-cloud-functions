@@ -1,0 +1,8 @@
+{
+  "name": "szabi-space-cloudfront-functions",
+  "version": "1.0.0",
+  "description": "request and response extension functions",
+  "main": "index.js",
+  "author": "szabikr",
+  "license": "MIT"
+}
